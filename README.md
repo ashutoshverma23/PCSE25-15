@@ -1,20 +1,12 @@
-# Title of Project: Mental Health and Well-Being surveillance, assessment and tracking solution among students
+# Title of Project: Mental Health tracking and surveillance using CBT-based chatbot and BERT classifier in students
 
 ## Team Members:
-1. Name - Ashutosh Verma,
-   Roll No. - 2100290100036,
-   Section - A
-2. Name - Arpita,
-   Roll No. - 2100290100034,
-   Section - A
-3. Name - Ananya Verma,
-   Roll No. - 2100290100028,
-   Section - A
+1. Ashutosh Verma
+2. Ananya Verma
+3. Arpita
 
 ## Steps for Execution:
 1. [STEP 1]
-2. [STEP 2]
-   (Add more steps as needed)
 
 ## Checklist:
 1. Final Project Report
